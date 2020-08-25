@@ -1,11 +1,10 @@
 package java_code;
 
 public class Person {
-
-    public static void main(String[] args) {
-
-        int age;
-
+    
+    private int age;
+    private String firstName;
+    private String address
 
     }
-}
+
